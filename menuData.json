@@ -1,6 +1,12 @@
 {
   "staticMenuItems": [
     {
+      "id": "countries",
+      "name": "All Country",
+      "icon": "globe-outline",
+      "route": "Countries"
+    },
+    {
       "id": "categories",
       "name": "All Category",
       "icon": "grid-outline",
