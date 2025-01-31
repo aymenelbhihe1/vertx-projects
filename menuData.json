@@ -1,0 +1,137 @@
+// Menu fixe avec icônes
+export const staticMenuItems = [
+    { 
+        id: 'countries', 
+        name: 'All Country', 
+        icon: 'globe-outline', 
+        route: 'Countries' 
+    },
+    { 
+        id: 'categories', 
+        name: 'All Category', 
+        icon: 'grid-outline', 
+        route: 'Categories' 
+    },
+    { 
+        id: 'languages', 
+        name: 'All Language', 
+        icon: 'language-outline', 
+        route: 'Languages' 
+    },
+    { 
+        id: 'regions', 
+        name: 'All Region', 
+        icon: 'map-outline', 
+        route: 'Regions' 
+    }
+];
+
+// Menu des chaînes
+export const channelMenuItems = [
+    { 
+        id: 'ArabicChannels',
+        name: 'Arabic Channels',
+        nomChaine: 'arabic',
+        image: 'https://dish.scene7.com/is/image/dishenterprise/arabic-channels-750x550:Mobile%20',
+        route: 'GenericChannels'  // Utilise le même composant pour toutes les chaînes
+    },
+    { 
+        id: 'MBCChannels',
+        name: 'Mbc Channels',
+        nomChaine: 'mbc',
+        image: 'https://upload.wikimedia.org/wikipedia/ar/archive/4/42/20180719185243%21Mbc_Group.jpg',
+        route: 'GenericChannels'
+    },
+    { 
+        id: 'BeinSport',
+        name: 'BEIN Sports',
+        nomChaine: 'bein',
+        image: 'https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp',
+        route: 'GenericChannels'
+    },
+    { 
+        id: 'BBCChannel',
+        name: 'BBC CHANNEL',
+        nomChaine: 'bbc',
+        image: 'https://ichef.bbci.co.uk/images/ic/400x225/p09xtmrn.jpg',
+        route: 'GenericChannels'
+    },
+    { 
+        id: 'FoxChannel',
+        name: 'FOX CHANNEL',
+        nomChaine: 'fox',
+        image: 'https://banner2.cleanpng.com/20180423/pae/kisspng-fox-international-channels-television-channel-fox-vector-fox-5ade3bdc8bd4c8.0706612915245137565728.jpg',
+        route: 'GenericChannels'
+    },
+    { 
+        id: 'ActionChannel',
+        name: 'Action CHANNEL',
+        nomChaine: 'action',
+        image: 'https://vectorlogoseek.com/wp-content/uploads/2018/10/action-billiard-cues-cases-vector-logo.png',
+        route: 'GenericChannels'
+    },
+    { 
+        id: 'SscChannel',
+        name: 'SSC Sport',
+        nomChaine: 'ssc',
+        image: "https://help.shahid.mbc.net/servlet/rtaImage?eid=ka0Tl0000000jV0&feoid=00N4K00000AMyVI&refid=0EM4K000000vsOH",
+        route: 'GenericChannels'
+    },
+    { 
+        id: 'EspnChannel',
+        name: 'ESPN CHANNEL',
+        nomChaine: 'espn',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpAQswOzA7Nyo1vHy_NCmTVZgjAdwMUlqLuA&s',
+        route: 'GenericChannels'
+    },
+    { 
+        id: 'AbcChannel',
+        name: 'ABC CHANNEL',
+        nomChaine: 'abc',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSURXxn_XzzxNMM3U6Pq6DAOZrXbOTwE144Q&s',
+        route: 'GenericChannels'
+    },
+    { 
+        id: 'canalChannel',
+        name: 'CANAL CHANNEL',
+        nomChaine: 'canal',
+        image: 'https://logos-marques.com/wp-content/uploads/2020/04/Canal-Logo.jpg',
+        route: 'GenericChannels'
+    },
+    { 
+        id: 'sonyChannel',
+        name: 'SONY CHANNEL',
+        nomChaine: 'sony',
+        image: 'https://seekvectorlogo.com/wp-content/uploads/2018/01/sony-vector-logo.png',
+        route: 'GenericChannels'
+    },
+    { 
+        id: 'disneyChannel',
+        name: 'DISNEY CHANNEL',
+        nomChaine: 'disney',
+        image: 'https://imgsrv2.voi.id/xMZtCXOQsTdXu_BdVImyBrvnEtheeV4qmVYLHHXtUM0/auto/1200/675/sm/1/bG9jYWw6Ly8vcHVibGlzaGVycy8zNjk1NzIvMjAyNDAzMjkxMDE2LW1haW4ucG5n.jpg',
+        route: 'GenericChannels'
+    },
+    { 
+        id: 'zeeChannel',
+        name: 'ZEE CHANNEL',
+        nomChaine: 'zee',
+        image: 'https://static.spotboye.com/uploads/zee-tv-completes-25-years_cb2c5f2bb4286c4711b4c75fc4366fca_thumbnail.jpg',
+        route: 'GenericChannels'
+    },
+    { 
+        id: 'rotanaChannel',
+        name: 'ROTANA CHANNEL',
+        nomChaine: 'rotana',
+        image: 'https://www.broadcastprome.com/wp-content/uploads/2017/03/rotana-logo.jpg',
+        route: 'GenericChannels'
+    },
+    { 
+        id: 'kidsChannel',
+        name: 'KIDS CHANNEL',
+        nomChaine: 'kids',
+        image: 'https://thumbs.dreamstime.com/b/kids-logo-vector-isolated-white-background-kids-logo-happy-kids-vector-illustration-122661003.jpg',
+        route: 'GenericChannels'
+    }
+];
+module.exports = { staticMenuItems, channelMenuItems };
