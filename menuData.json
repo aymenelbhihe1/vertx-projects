@@ -1,33 +1,31 @@
-// Menu fixe avec icônes
-export const staticMenuItems = [
-    { 
-        id: 'countries', 
-        name: 'All Country', 
-        icon: 'globe-outline', 
-        route: 'Countries' 
+{
+  "staticMenuItems": [
+    {
+      "id": "countries",
+      "name": "All Country",
+      "icon": "globe-outline",
+      "route": "Countries"
     },
-    { 
-        id: 'categories', 
-        name: 'All Category', 
-        icon: 'grid-outline', 
-        route: 'Categories' 
+    {
+      "id": "categories",
+      "name": "All Category",
+      "icon": "grid-outline",
+      "route": "Categories"
     },
-    { 
-        id: 'languages', 
-        name: 'All Language', 
-        icon: 'language-outline', 
-        route: 'Languages' 
+    {
+      "id": "languages",
+      "name": "All Language",
+      "icon": "language-outline",
+      "route": "Languages"
     },
-    { 
-        id: 'regions', 
-        name: 'All Region', 
-        icon: 'map-outline', 
-        route: 'Regions' 
+    {
+      "id": "regions",
+      "name": "All Region",
+      "icon": "map-outline",
+      "route": "Regions"
     }
-];
-
-// Menu des chaînes
-export const channelMenuItems = [
+  ],
+  "channelMenuItems": [
     { 
         id: 'ArabicChannels',
         name: 'Arabic Channels',
@@ -133,5 +131,5 @@ export const channelMenuItems = [
         image: 'https://thumbs.dreamstime.com/b/kids-logo-vector-isolated-white-background-kids-logo-happy-kids-vector-illustration-122661003.jpg',
         route: 'GenericChannels'
     }
-];
-module.exports = { staticMenuItems, channelMenuItems };
+  ]
+}
