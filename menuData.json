@@ -2,7 +2,7 @@
   "staticMenuItems": [
             {
       "id": "countries",
-      "name": "All hhhhhh",
+      "name": "All Countries",
       "icon": "globe-outline",
       "route": "Countries"
     },
@@ -128,6 +128,13 @@
       "id": "kidsChannel",
       "name": "KIDS CHANNEL",
       "nomChaine": "kids",
+      "image": "https://thumbs.dreamstime.com/b/kids-logo-vector-isolated-white-background-kids-logo-happy-kids-vector-illustration-122661003.jpg",
+      "route": "GenericChannels"
+    },
+    { 
+      "id": "quranChannel",
+      "name": "QURAN CHANNEL",
+      "nomChaine": "quran",
       "image": "https://thumbs.dreamstime.com/b/kids-logo-vector-isolated-white-background-kids-logo-happy-kids-vector-illustration-122661003.jpg",
       "route": "GenericChannels"
     }
