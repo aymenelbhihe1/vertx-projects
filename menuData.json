@@ -23,16 +23,15 @@
       "name": "All Region",
       "icon": "map-outline",
       "route": "Regions"
-    }
-  ],
-  "channelMenuItems": [
-    { 
+    },
+     { 
       "id": "ArabicChannels",
       "name": "Arabic Channels",
-      "nomChaine": "arabic",
       "image": "https://dish.scene7.com/is/image/dishenterprise/arabic-channels-750x550:Mobile%20",
-      "route": "GenericChannels"
+      "route": ""
     },
+  ],
+  "channelMenuItems": [
     { 
       "id": "MBCChannels",
       "name": "Mbc Channels",
