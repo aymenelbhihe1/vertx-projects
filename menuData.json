@@ -37,28 +37,28 @@
       "id": "MBCChannels",
       "name": "Mbc Channels",
       "nomChaine": "mbc",
-      "image": "https://upload.wikimedia.org/wikipedia/ar/archive/4/42/20180719185243%21Mbc_Group.jpg",
+      "image": "https://w7.pngwing.com/pngs/427/394/png-transparent-mbc-television-channel-munhwa-broadcasting-corporation-live-television-live-stream-television-blue-text-thumbnail.png",
       "route": "GenericChannels"
     },
     { 
       "id": "BeinSport",
       "name": "BEIN Sports",
       "nomChaine": "bein",
-      "image": "https://www.citypng.com/public/uploads/preview/hd-bein-sports-logo-transparent-png-701751694776822xqayx5yopy.png?v=2025012904",
+      "image":"https://w7.pngwing.com/pngs/19/599/png-transparent-bein-sports-text-bein-sports-united-states-la-liga-bein-sports-1-sports-miscellaneous-purple-television-thumbnail.png"
       "route": "GenericChannels"
     },
     { 
       "id": "BBCChannel",
       "name": "BBC CHANNEL",
       "nomChaine": "bbc",
-      "image": "https://ichef.bbci.co.uk/images/ic/400x225/p09xtmrn.jpg",
+      "image": "https://w7.pngwing.com/pngs/850/1001/png-transparent-computer-icons-logo-of-the-bbc-bbc-world-news-uc-browser-text-rectangle-logo-thumbnail.png",
       "route": "GenericChannels"
     },
     { 
       "id": "FoxChannel",
       "name": "FOX CHANNEL",
       "nomChaine": "fox",
-      "image": "https://banner2.cleanpng.com/20180423/pae/kisspng-fox-international-channels-television-channel-fox-vector-fox-5ade3bdc8bd4c8.0706612915245137565728.jpg",
+      "image": "https://w1.pngwing.com/pngs/563/752/png-transparent-fox-logo-fox-channel-fox-networks-group-latin-america-television-fox-broadcasting-company-21st-century-fox-television-channel-fox-life-thumbnail.png",
       "route": "GenericChannels"
     },
     { 
@@ -79,21 +79,21 @@
       "id": "EspnChannel",
       "name": "ESPN CHANNEL",
       "nomChaine": "espn",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpAQswOzA7Nyo1vHy_NCmTVZgjAdwMUlqLuA&s",
+      "image": "https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photography-thumbnail.png",
       "route": "GenericChannels"
     },
     { 
       "id": "AbcChannel",
       "name": "ABC CHANNEL",
       "nomChaine": "abc",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSURXxn_XzzxNMM3U6Pq6DAOZrXbOTwE144Q&s",
+      "image": "https://w7.pngwing.com/pngs/179/151/png-transparent-american-broadcasting-company-abc-news-logo-good-morning-television-text-logo-thumbnail.png",
       "route": "GenericChannels"
     },
     { 
       "id": "canalChannel",
       "name": "CANAL CHANNEL",
       "nomChaine": "canal",
-      "image": "https://logos-marques.com/wp-content/uploads/2020/04/Canal-Logo.jpg",
+      "image": "https://w7.pngwing.com/pngs/922/548/png-transparent-canal-hd-logo.png",
       "route": "GenericChannels"
     },
     { 
@@ -107,21 +107,21 @@
       "id": "disneyChannel",
       "name": "DISNEY CHANNEL",
       "nomChaine": "disney",
-      "image": "https://imgsrv2.voi.id/xMZtCXOQsTdXu_BdVImyBrvnEtheeV4qmVYLHHXtUM0/auto/1200/675/sm/1/bG9jYWw6Ly8vcHVibGlzaGVycy8zNjk1NzIvMjAyNDAzMjkxMDE2LW1haW4ucG5n.jpg",
+      "image": "https://w7.pngwing.com/pngs/343/130/png-transparent-disney-channel-logo-the-walt-disney-company-others-television-text-heart.png",
       "route": "GenericChannels"
     },
     { 
       "id": "zeeChannel",
       "name": "ZEE CHANNEL",
       "nomChaine": "zee",
-      "image": "https://static.spotboye.com/uploads/zee-tv-completes-25-years_cb2c5f2bb4286c4711b4c75fc4366fca_thumbnail.jpg",
+      "image": "https://w1.pngwing.com/pngs/757/119/png-transparent-tv-zee-alwan-television-channel-zee-entertainment-enterprises-zee-aflam-zee-tv-television-show-streaming-media.png",
       "route": "GenericChannels"
     },
     { 
       "id": "rotanaChannel",
       "name": "ROTANA CHANNEL",
       "nomChaine": "rotana",
-      "image": "https://www.broadcastprome.com/wp-content/uploads/2017/03/rotana-logo.jpg",
+      "image": "https://w7.pngwing.com/pngs/855/535/png-transparent-rotana-group-middle-east-rotana-records-television-channel-others-television-text-logo-thumbnail.png",
       "route": "GenericChannels"
     },
     { 
@@ -135,7 +135,7 @@
       "id": "quranChannel",
       "name": "QURAN CHANNEL",
       "nomChaine": "quran",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeHbR1vwJ9k8X5wVcjfIIEoWKAVssS36ljDoawe8NQBw&s",
+      "image": "https://w7.pngwing.com/pngs/194/1011/png-transparent-allah-calligraphy-quran-android-google-play-the-holy-quran-user-interface-design-trademark-logo-thumbnail.png",
       "route": "GenericChannels"
     }
   ]
