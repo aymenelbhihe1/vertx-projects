@@ -57,7 +57,7 @@
       "id": "AlkassSport",
       "name": "ALKASS Sports",
       "nomChaine": "bein",
-      "image":"https://upload.wikimedia.org/wikipedia/commons/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg",
+      "image":"https://images.alkass.net/screencaps/1668115752_high.jpg",
       "route": "GenericChannels"
     },
     { 
@@ -78,7 +78,7 @@
       "id": "BBCChannel",
       "name": "BBC CHANNEL",
       "nomChaine": "bbc",
-      "image": "https://thinkmarketingmagazine.com/wp-content/uploads/2012/08/BBC-Logo-drsign-Evolution-Story-marketing-facts.jpg",
+      "image": "https://t3.ftcdn.net/jpg/08/98/52/38/240_F_898523802_dRxEKaNd4vwtNb2wT1FntkTEUMfZYdR1.jpg",
       "route": "GenericChannels"
     },
     { 
