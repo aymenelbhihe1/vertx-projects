@@ -2,7 +2,7 @@
   "staticMenuItems": [
             {
       "id": "countries",
-      "name": "All Countries",
+      "name": "All Countries nnn",
       "icon": "globe-outline",
       "route": "Countries"
     },
