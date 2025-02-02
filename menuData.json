@@ -40,6 +40,13 @@
       "route": "GenericChannels"
     },
     { 
+      "id": "rotanaChannel",
+      "name": "ROTANA CHANNEL",
+      "nomChaine": "rotana",
+      "image": "https://www.broadcastprome.com/wp-content/uploads/2017/03/rotana-logo.jpg",
+      "route": "GenericChannels"
+    },
+    { 
       "id": "BeinSport",
       "name": "BEIN Sports",
       "nomChaine": "bein",
@@ -114,13 +121,6 @@
       "name": "ZEE CHANNEL",
       "nomChaine": "zee",
       "image": "https://i.pinimg.com/736x/ad/aa/b2/adaab2fc89dfd12426af063338f20d9b.jpg",
-      "route": "GenericChannels"
-    },
-    { 
-      "id": "rotanaChannel",
-      "name": "ROTANA CHANNEL",
-      "nomChaine": "rotana",
-      "image": "https://www.broadcastprome.com/wp-content/uploads/2017/03/rotana-logo.jpg",
       "route": "GenericChannels"
     },
     { 
