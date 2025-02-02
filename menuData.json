@@ -2,7 +2,7 @@
   "staticMenuItems": [
             {
       "id": "countries",
-      "name": "All Countries aymen",
+      "name": "All Countries",
       "icon": "globe-outline",
       "route": "Countries"
     },
