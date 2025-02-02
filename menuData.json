@@ -2,7 +2,7 @@
   "staticMenuItems": [
             {
       "id": "countries",
-      "name": "All Countries",
+      "name": "All Countries oumaima hmara",
       "icon": "globe-outline",
       "route": "Countries"
     },
