@@ -33,6 +33,13 @@
   ],
   "channelMenuItems": [
     { 
+      "id": "NetflixChannels",
+      "name": "Netflix Channels",
+      "nomChaine": "netflix",
+      "image": "https://thumbs.dreamstime.com/b/logo-de-netflix-127102377.jpg",
+      "route": "GenericChannels"
+    },
+    { 
       "id": "MBCChannels",
       "name": "Mbc Channels",
       "nomChaine": "mbc",
