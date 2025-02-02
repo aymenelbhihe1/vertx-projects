@@ -46,6 +46,13 @@
       "image": "https://www.broadcastprome.com/wp-content/uploads/2017/03/rotana-logo.jpg",
       "route": "GenericChannels"
     },
+     { 
+      "id": "AlkassSport",
+      "name": "ALKASS Sports",
+      "nomChaine": "bein",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg",
+      "route": "GenericChannels"
+    },
     { 
       "id": "BeinSport",
       "name": "BEIN Sports",
