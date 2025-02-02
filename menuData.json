@@ -2,7 +2,7 @@
   "staticMenuItems": [
             {
       "id": "countries",
-      "name": "All Countries",
+      "name": "All Countries jjjj",
       "icon": "globe-outline",
       "route": "Countries"
     },
@@ -36,105 +36,105 @@
       "id": "MBCChannels",
       "name": "Mbc Channels",
       "nomChaine": "mbc",
-      "image": "https://w7.pngwing.com/pngs/427/394/png-transparent-mbc-television-channel-munhwa-broadcasting-corporation-live-television-live-stream-television-blue-text-thumbnail.png",
+      "image": "https://campaignme.com/wp-content/uploads/2020/06/MBC-GROUP-Logo.png",
       "route": "GenericChannels"
     },
     { 
       "id": "BeinSport",
       "name": "BEIN Sports",
       "nomChaine": "bein",
-      "image":"https://w7.pngwing.com/pngs/19/599/png-transparent-bein-sports-text-bein-sports-united-states-la-liga-bein-sports-1-sports-miscellaneous-purple-television-thumbnail.png",
+      "image":"https://www.shutterstock.com/image-vector/bein-sports-logo-icon-art-600nw-2320589197.jpg",
       "route": "GenericChannels"
     },
     { 
       "id": "BBCChannel",
       "name": "BBC CHANNEL",
       "nomChaine": "bbc",
-      "image": "https://w7.pngwing.com/pngs/850/1001/png-transparent-computer-icons-logo-of-the-bbc-bbc-world-news-uc-browser-text-rectangle-logo-thumbnail.png",
+      "image": "https://thinkmarketingmagazine.com/wp-content/uploads/2012/08/BBC-Logo-drsign-Evolution-Story-marketing-facts.jpg",
       "route": "GenericChannels"
     },
     { 
       "id": "FoxChannel",
       "name": "FOX CHANNEL",
       "nomChaine": "fox",
-      "image": "https://w1.pngwing.com/pngs/563/752/png-transparent-fox-logo-fox-channel-fox-networks-group-latin-america-television-fox-broadcasting-company-21st-century-fox-television-channel-fox-life-thumbnail.png",
+      "image": "https://media.sketchfab.com/models/3ec66e3ff29d4459b441472bb2eb42fe/thumbnails/a7e758b186af4df7b755372d1efa6ddd/0b4f924d8b3146e79323300420d14c46.jpeg",
       "route": "GenericChannels"
     },
     { 
       "id": "ActionChannel",
       "name": "Action CHANNEL",
       "nomChaine": "action",
-      "image": "https://vectorlogoseek.com/wp-content/uploads/2018/10/action-billiard-cues-cases-vector-logo.png",
+      "image": "https://c8.alamy.com/compfr/2m6rwxw/action-store-logo-fond-blanc-2m6rwxw.jpg",
       "route": "GenericChannels"
     },
     { 
       "id": "SscChannel",
       "name": "SSC Sport",
       "nomChaine": "ssc",
-      "image": "https://yt3.googleusercontent.com/H9DU2abSiU_7kqHXjohfb1p997UBAHQ_SJTvQ0glym9SzAbWsgIy6UmDn5G-J4iO9RSWOoGeBI8=s900-c-k-c0x00ffffff-no-rj",
+      "image": "https://seeklogo.com/images/S/ssc-tv-logo-3DE99FB563-seeklogo.com.png",
       "route": "GenericChannels"
     },
     { 
       "id": "EspnChannel",
       "name": "ESPN CHANNEL",
       "nomChaine": "espn",
-      "image": "https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photography-thumbnail.png",
+      "image": "https://thumbs.dreamstime.com/b/logo-icon-vector-logos-icons-set-social-media-flat-banner-vectors-svg-eps-jpg-jpeg-paper-texture-glossy-emblem-wallpaper-210442610.jpg",
       "route": "GenericChannels"
     },
     { 
       "id": "AbcChannel",
       "name": "ABC CHANNEL",
       "nomChaine": "abc",
-      "image": "https://w7.pngwing.com/pngs/179/151/png-transparent-american-broadcasting-company-abc-news-logo-good-morning-television-text-logo-thumbnail.png",
+      "image": "https://t3.ftcdn.net/jpg/04/88/22/26/360_F_488222622_1VarNlKLKTRmhYzIb8qtOSVS8LC4jGOq.jpg",
       "route": "GenericChannels"
     },
     { 
       "id": "canalChannel",
       "name": "CANAL CHANNEL",
       "nomChaine": "canal",
-      "image": "https://w7.pngwing.com/pngs/922/548/png-transparent-canal-hd-logo.png",
+      "image": "https://0d840dd500.cbaul-cdnwnd.com/6b04045c3e4675692d8f0eef4e71cb30/system_preview_detail_200000452-4101a41fae-public/logo-canal-plus.jpg",
       "route": "GenericChannels"
     },
     { 
       "id": "sonyChannel",
       "name": "SONY CHANNEL",
       "nomChaine": "sony",
-      "image": "https://seekvectorlogo.com/wp-content/uploads/2018/01/sony-vector-logo.png",
+      "image": "https://www.shutterstock.com/image-vector/sony-electronic-industrial-modern-technology-260nw-2269842783.jpg",
       "route": "GenericChannels"
     },
     { 
       "id": "disneyChannel",
       "name": "DISNEY CHANNEL",
       "nomChaine": "disney",
-      "image": "https://w7.pngwing.com/pngs/343/130/png-transparent-disney-channel-logo-the-walt-disney-company-others-television-text-heart.png",
+      "image": "https://static.vecteezy.com/ti/vecteur-libre/p1/14414670-logo-disney-sur-fond-transparent-gratuit-vectoriel.jpg",
       "route": "GenericChannels"
     },
     { 
       "id": "zeeChannel",
       "name": "ZEE CHANNEL",
       "nomChaine": "zee",
-      "image": "https://w1.pngwing.com/pngs/757/119/png-transparent-tv-zee-alwan-television-channel-zee-entertainment-enterprises-zee-aflam-zee-tv-television-show-streaming-media.png",
+      "image": "https://i.pinimg.com/736x/ad/aa/b2/adaab2fc89dfd12426af063338f20d9b.jpg",
       "route": "GenericChannels"
     },
     { 
       "id": "rotanaChannel",
       "name": "ROTANA CHANNEL",
       "nomChaine": "rotana",
-      "image": "https://w7.pngwing.com/pngs/855/535/png-transparent-rotana-group-middle-east-rotana-records-television-channel-others-television-text-logo-thumbnail.png",
+      "image": "https://www.broadcastprome.com/wp-content/uploads/2017/03/rotana-logo.jpg",
       "route": "GenericChannels"
     },
     { 
       "id": "kidsChannel",
       "name": "KIDS CHANNEL",
       "nomChaine": "kids",
-      "image": "https://w7.pngwing.com/pngs/731/774/png-transparent-ice-cream-child-calippo-surprise-eggs-kids-app-atm-simulator-kids-learning-kids-game-text-rectangle-thumbnail.png",
+      "image": "https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg",
       "route": "GenericChannels"
     },
     { 
       "id": "quranChannel",
       "name": "QURAN CHANNEL",
       "nomChaine": "quran",
-      "image": "https://w7.pngwing.com/pngs/194/1011/png-transparent-allah-calligraphy-quran-android-google-play-the-holy-quran-user-interface-design-trademark-logo-thumbnail.png",
+      "image": "https://www.shutterstock.com/image-vector/holy-quran-islamic-book-calligraphy-600nw-281022530.jpg",
       "route": "GenericChannels"
     }
   ]
