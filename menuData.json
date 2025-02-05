@@ -68,6 +68,13 @@
       "route": "GenericChannels"
     },
     { 
+      "id": "supersport",
+      "name": "Super Sports",
+      "nomChaine": "supersport",
+      "image":"https://images.supersport.com/media/3ilb5fio/ss-placeholder.jpg?width=1920&quality=90&format=webp",
+      "route": "GenericChannels"
+    },
+    { 
       "id": "HBOChannel",
       "name": "HBO CHANNEL",
       "nomChaine": "hbo",
