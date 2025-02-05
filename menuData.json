@@ -69,8 +69,8 @@
     },
     { 
       "id": "supersport",
-      "name": "Super Sports",
-      "nomChaine": "supersport",
+      "name": "free Sports",
+      "nomChaine": "freesport",
       "image":"https://images.supersport.com/media/3ilb5fio/ss-placeholder.jpg?width=1920&quality=90&format=webp",
       "route": "GenericChannels"
     },
