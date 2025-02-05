@@ -68,9 +68,9 @@
       "route": "GenericChannels"
     },
     { 
-      "id": "supersport",
-      "name": "free Sports",
-      "nomChaine": "vip",
+      "id": "cbc",
+      "name": "CBC Sports",
+      "nomChaine": "cbc",
       "image":"https://images.supersport.com/media/3ilb5fio/ss-placeholder.jpg?width=1920&quality=90&format=webp",
       "route": "GenericChannels"
     },
