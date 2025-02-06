@@ -71,14 +71,14 @@
       "id": "astro",
       "name": "ASTRO CHANNELS",
       "nomChaine": "astro",
-      "image":"https://logowik.com/content/uploads/images/bein-sports-horizontal2912.logowik.com.webp",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT43OfFONP359U6vGIXuikhQAIwhywH9wp5M7C5ft-jTg0qJLcSO30vGGk&s",
       "route": "GenericChannels"
     },
     { 
       "id": "cbc",
       "name": "CBC Sports",
       "nomChaine": "cbc",
-      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT43OfFONP359U6vGIXuikhQAIwhywH9wp5M7C5ft-jTg0qJLcSO30vGGk&s",
+      "image":"https://logos-world.net/wp-content/uploads/2021/02/CBC-Television-Logo.png",
       "route": "GenericChannels"
     },
     { 
@@ -113,7 +113,7 @@
       "id": "SscChannel",
       "name": "SSC Sport",
       "nomChaine": "ssc",
-      "image": "https://seeklogo.com/images/S/ssc-tv-logo-3DE99FB563-seeklogo.com.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ssc_sports.png",
       "route": "GenericChannels"
     },
     { 
