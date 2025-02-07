@@ -177,7 +177,8 @@
     {
       "id": "exampleLink",
       "name": "Exemple AutreLink",
-      "icon": "link-outline",
+      "nomChaine":"exemple",
+      "image": "image",
       "route": "AutreLinkRoute"
     }
   ]
