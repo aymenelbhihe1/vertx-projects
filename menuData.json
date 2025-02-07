@@ -175,9 +175,9 @@
   ],
   "autreLinkMenuItems": [
     {
-      "id": "mbc",
-      "name": "MBC channels AutreLink",
-      "nomChaine":"xxx",
+      "id": "ssc",
+      "name": "ssc channels AutreLink",
+      "nomChaine":"ssc",
       "image": "https://campaignme.com/wp-content/uploads/2020/06/MBC-GROUP-Logo.png",
       "route": "GenericChannels2"
     }
