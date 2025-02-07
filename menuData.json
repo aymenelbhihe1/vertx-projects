@@ -175,11 +175,11 @@
   ],
   "autreLinkMenuItems": [
     {
-      "id": "exampleLink",
-      "name": "Exemple AutreLink",
-      "nomChaine":"exemple",
+      "id": "biensport",
+      "name": "Bein Sport AutreLink",
+      "nomChaine":"bein",
       "image": "image",
-      "route": "AutreLinkRoute"
+      "route": "GenericChannels3"
     }
   ]
 }
