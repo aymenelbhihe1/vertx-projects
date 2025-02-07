@@ -175,10 +175,10 @@
   ],
   "autreLinkMenuItems": [
     {
-      "id": "biensport",
-      "name": "Bein Sport AutreLink",
-      "nomChaine":"bein",
-      "image": "image",
+      "id": "mbc",
+      "name": "MBC channels AutreLink",
+      "nomChaine":"mbc",
+      "image": "https://campaignme.com/wp-content/uploads/2020/06/MBC-GROUP-Logo.png",
       "route": "GenericChannels2"
     }
   ]
