@@ -177,14 +177,14 @@
     {
       "id": "ssc",
       "name": "ssc channels AutreLink",
-      "nomChaine":"bi",
+      "nomChaine":"mbc",
       "image": "https://campaignme.com/wp-content/uploads/2020/06/MBC-GROUP-Logo.png",
       "route": "GenericChannels2"
     },
      {
       "id": "bein",
       "name": "BEIN SPORT",
-      "nomChaine":"bi",
+      "nomChaine":"bein",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/BeIN_Sports_logo.svg/1280px-BeIN_Sports_logo.svg.png",
       "route": "GenericChannels2"
     }
