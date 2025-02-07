@@ -172,5 +172,13 @@
       "image": "https://www.shutterstock.com/image-vector/holy-quran-islamic-book-calligraphy-600nw-281022530.jpg",
       "route": "GenericChannels"
     }
+  ],
+  "autreLinkMenuItems": [
+    {
+      "id": "exampleLink",
+      "name": "Exemple AutreLink",
+      "icon": "link-outline",
+      "route": "AutreLinkRoute"
+    }
   ]
 }
