@@ -1,36 +1,4 @@
 {
-  "staticMenuItems": [
-            {
-      "id": "countries",
-      "name": "All Countries",
-      "icon": "globe-outline",
-      "route": "Countries"
-    },
-    {
-      "id": "categories",
-      "name": "All Category",
-      "icon": "grid-outline",
-      "route": "Categories"
-    },
-    {
-      "id": "languages",
-      "name": "All Language",
-      "icon": "language-outline",
-      "route": "Languages"
-    },
-    {
-      "id": "regions",
-      "name": "All Region",
-      "icon": "map-outline",
-      "route": "Regions"
-    },
-     { 
-      "id": "Arabic",
-      "name": "Arabic Channels",
-      "image": "https://dish.scene7.com/is/image/dishenterprise/arabic-channels-750x550:Mobile%20",
-      "route": "Arabic"
-    }
-  ],
   "channelMenuItems": [
     { 
       "id": "NetflixChannels",
@@ -171,6 +139,38 @@
       "nomChaine": "quran",
       "image": "https://www.shutterstock.com/image-vector/holy-quran-islamic-book-calligraphy-600nw-281022530.jpg",
       "route": "GenericChannels"
+    }
+  ],
+  "staticMenuItems": [
+            {
+      "id": "countries",
+      "name": "All Countries",
+      "icon": "globe-outline",
+      "route": "Countries"
+    },
+    {
+      "id": "categories",
+      "name": "All Category",
+      "icon": "grid-outline",
+      "route": "Categories"
+    },
+    {
+      "id": "languages",
+      "name": "All Language",
+      "icon": "language-outline",
+      "route": "Languages"
+    },
+    {
+      "id": "regions",
+      "name": "All Region",
+      "icon": "map-outline",
+      "route": "Regions"
+    },
+     { 
+      "id": "Arabic",
+      "name": "Arabic Channels",
+      "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ff6a517-d821-47aa-86f9-3f2605358807_4957x2667.png",
+      "route": "Arabic"
     }
   ],
   "autreLinkMenuItems": [
