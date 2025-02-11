@@ -61,8 +61,8 @@
       "route": "GenericChannels"
     },
     { 
-      "id": "BeinSport v2",
-      "name": "BEIN Sports",
+      "id": "BeinSport",
+      "name": "BEIN Sports v2",
       "nomChaine": "bein",
       "image":"https://pluspng.com/img-png/bein-sports-logo-png-bein-sports-logo-img-vector-1000x1000.png",
       "route": "GenericChannels"
