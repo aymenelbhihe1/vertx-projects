@@ -1,6 +1,6 @@
 {
   "staticMenuItems": [
-            {
+    {
       "id": "countries",
       "name": "All Countries",
       "icon": "globe-outline",
@@ -29,7 +29,13 @@
       "name": "Arabic Channels",
       "icon": "tv-outline",
       "route": "Arabic"
-    }
+    },
+    { 
+      "id": "Live",
+      "name": "Live Channels",
+      "icon": "tv-outline",
+      "route": "Live"
+    },
   ],
   "channelMenuItems": [
     { 
