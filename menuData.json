@@ -4,24 +4,28 @@
       "id": "countries",
       "name": "All Countries",
       "icon": "globe-outline",
+      "emoji": "🌍",
       "route": "Countries"
     },
     {
       "id": "categories",
       "name": "All Category",
       "icon": "grid-outline",
+      "emoji": "🎬",
       "route": "Categories"
     },
     {
       "id": "regions",
       "name": "All Region",
       "icon": "map-outline",
+      "emoji": "📡",
       "route": "Regions"
     },
      { 
       "id": "Arabic",
       "name": "Arabic Channels",
       "icon": "tv-outline",
+       "emoji": "🇸🇦",
       "route": "Arabic"
     }
   ],
