@@ -13,12 +13,6 @@
       "route": "Categories"
     },
     {
-      "id": "languages",
-      "name": "All Language",
-      "icon": "language-outline",
-      "route": "Languages"
-    },
-    {
       "id": "regions",
       "name": "All Region",
       "icon": "map-outline",
