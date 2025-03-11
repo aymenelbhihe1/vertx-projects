@@ -164,7 +164,7 @@
       "nomChaine":"bein",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/BeIN_Sports_logo.svg/1280px-BeIN_Sports_logo.svg.png",
       "route": "GenericChannels2"
-    }
+    },
     { 
       "id": "AlkassSport",
       "name": "ALKASS Sports",
