@@ -40,7 +40,7 @@
     { 
       "id": "BeinSport",
       "name": "BEIN Sports",
-      "nomChaine": "bein",
+      "nomChaine": "ar.bein",
       "image":"https://pluspng.com/img-png/bein-sports-logo-png-bein-sports-logo-img-vector-1000x1000.png",
       "route": "GenericChannels"
     },
