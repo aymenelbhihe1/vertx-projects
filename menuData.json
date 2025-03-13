@@ -31,59 +31,10 @@
   ],
   "channelMenuItems": [
     { 
-      "id": "NetflixChannels",
-      "name": "Netflix Channels",
-      "nomChaine": "netflix",
-      "image": "https://thumbs.dreamstime.com/b/logo-de-netflix-127102377.jpg",
-      "route": "GenericChannels"
-    },
-    { 
       "id": "BeinSport",
       "name": "BEIN Sports",
       "nomChaine": "bein sport",
       "image":"https://pluspng.com/img-png/bein-sports-logo-png-bein-sports-logo-img-vector-1000x1000.png",
-      "route": "GenericChannels"
-    },
-    { 
-      "id": "astro",
-      "name": "ASTRO CHANNELS",
-      "nomChaine": "astro",
-      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT43OfFONP359U6vGIXuikhQAIwhywH9wp5M7C5ft-jTg0qJLcSO30vGGk&s",
-      "route": "GenericChannels"
-    },
-    { 
-      "id": "cbc",
-      "name": "CBC Sports",
-      "nomChaine": "cbc",
-      "image":"https://logos-world.net/wp-content/uploads/2021/02/CBC-Television-Logo.png",
-      "route": "GenericChannels"
-    },
-    { 
-      "id": "HBOChannel",
-      "name": "HBO CHANNEL",
-      "nomChaine": "hbo",
-      "image": "https://logospng.org/wp-content/uploads/hbo.png",
-      "route": "GenericChannels"
-    },
-    { 
-      "id": "BBCChannel",
-      "name": "BBC CHANNEL",
-      "nomChaine": "bbc",
-      "image": "https://t3.ftcdn.net/jpg/08/98/52/38/240_F_898523802_dRxEKaNd4vwtNb2wT1FntkTEUMfZYdR1.jpg",
-      "route": "GenericChannels"
-    },
-    { 
-      "id": "FoxChannel",
-      "name": "FOX CHANNEL",
-      "nomChaine": "fox",
-      "image": "https://media.sketchfab.com/models/3ec66e3ff29d4459b441472bb2eb42fe/thumbnails/a7e758b186af4df7b755372d1efa6ddd/0b4f924d8b3146e79323300420d14c46.jpeg",
-      "route": "GenericChannels"
-    },
-    { 
-      "id": "ActionChannel",
-      "name": "Action CHANNEL",
-      "nomChaine": "action",
-      "image": "https://c8.alamy.com/compfr/2m6rwxw/action-store-logo-fond-blanc-2m6rwxw.jpg",
       "route": "GenericChannels"
     },
     { 
@@ -98,34 +49,6 @@
       "name": "ESPN CHANNEL",
       "nomChaine": "espn",
       "image": "https://thumbs.dreamstime.com/b/logo-icon-vector-logos-icons-set-social-media-flat-banner-vectors-svg-eps-jpg-jpeg-paper-texture-glossy-emblem-wallpaper-210442610.jpg",
-      "route": "GenericChannels"
-    },
-    { 
-      "id": "AbcChannel",
-      "name": "ABC CHANNEL",
-      "nomChaine": "abc",
-      "image": "https://t3.ftcdn.net/jpg/04/88/22/26/360_F_488222622_1VarNlKLKTRmhYzIb8qtOSVS8LC4jGOq.jpg",
-      "route": "GenericChannels"
-    },
-    { 
-      "id": "canalChannel",
-      "name": "CANAL CHANNEL",
-      "nomChaine": "canal",
-      "image": "https://0d840dd500.cbaul-cdnwnd.com/6b04045c3e4675692d8f0eef4e71cb30/system_preview_detail_200000452-4101a41fae-public/logo-canal-plus.jpg",
-      "route": "GenericChannels"
-    },
-    { 
-      "id": "sonyChannel",
-      "name": "SONY CHANNEL",
-      "nomChaine": "sony",
-      "image": "https://www.shutterstock.com/image-vector/sony-electronic-industrial-modern-technology-260nw-2269842783.jpg",
-      "route": "GenericChannels"
-    },
-    { 
-      "id": "disneyChannel",
-      "name": "DISNEY CHANNEL",
-      "nomChaine": "disney",
-      "image": "https://static.vecteezy.com/ti/vecteur-libre/p1/14414670-logo-disney-sur-fond-transparent-gratuit-vectoriel.jpg",
       "route": "GenericChannels"
     },
     { 
