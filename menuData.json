@@ -45,13 +45,6 @@
       "route": "GenericChannels"
     },
     { 
-      "id": "EspnChannel",
-      "name": "ESPN CHANNEL",
-      "nomChaine": "espn",
-      "image": "https://thumbs.dreamstime.com/b/logo-icon-vector-logos-icons-set-social-media-flat-banner-vectors-svg-eps-jpg-jpeg-paper-texture-glossy-emblem-wallpaper-210442610.jpg",
-      "route": "GenericChannels"
-    },
-    { 
       "id": "zeeChannel",
       "name": "ZEE CHANNEL",
       "nomChaine": "zee",
