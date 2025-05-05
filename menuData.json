@@ -45,6 +45,13 @@
       "route": "GenericChannels"
     },
     { 
+      "id": "AlkassSport",
+      "name": "ALKASS Sports",
+      "nomChaine": "alkass",
+      "image":"https://images.alkass.net/screencaps/1668115752_high.jpg",
+      "route": "GenericChannels"
+    },
+    { 
       "id": "zeeChannel",
       "name": "ZEE CHANNEL",
       "nomChaine": "zee",
