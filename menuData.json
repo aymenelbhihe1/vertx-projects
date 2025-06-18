@@ -38,6 +38,13 @@
       "route": "GenericChannels"
     },
     { 
+      "id": "DAZN",
+      "name": "DAZN",
+      "nomChaine": "dazn",
+      "image":"",
+      "route": "GenericChannels"
+    },
+    { 
       "id": "SscChannel",
       "name": "SSC Sport",
       "nomChaine": "ssc",
