@@ -40,7 +40,7 @@
     { 
       "id": "fifa club world cup",
       "name": "FIFA club world cup",
-      "nomChaine": "MA ▎",
+      "nomChaine": "WC ▎",
       "image":"https://media.insidethegames.biz/media/image/307462/c/20241112_FIFA_CWC_Trophy_Open_Stand_BLK_crops1920x1080.png",
       "route": "GenericChannels"
     },
