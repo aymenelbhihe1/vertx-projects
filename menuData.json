@@ -38,10 +38,10 @@
       "route": "GenericChannels"
     },
     { 
-      "id": "club",
-      "name": "club world cup",
-      "nomChaine": "club world cup",
-      "image":"",
+      "id": "fifa club world cup",
+      "name": "FIFA club world cup",
+      "nomChaine": "fifa club world cup",
+      "image":"https://media.insidethegames.biz/media/image/307462/c/20241112_FIFA_CWC_Trophy_Open_Stand_BLK_crops1920x1080.png",
       "route": "GenericChannels"
     },
     { 
