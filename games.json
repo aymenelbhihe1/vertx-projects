@@ -1,0 +1,32 @@
+[
+  {
+    "nom": "Fortnite",
+    "size": "270 MB",
+    "image": "https://cdn2.unrealengine.com/fortnite-mobile-1268x717-1268x717-5b9b2dfd33c9.jpg",
+    "url": "https://www.epicgames.com/fortnite/download"
+  },
+  {
+    "nom": "PUBG Mobile",
+    "size": "1.5 GB",
+    "image": "https://cdn-www.bluestacks.com/bs-images/pubg_mobile.jpg",
+    "url": "https://pubgmobile.com/"
+  },
+  {
+    "nom": "Call of Duty Mobile",
+    "size": "2.2 GB",
+    "image": "https://www.callofduty.com/content/dam/atvi/callofduty/mobile/home/codm-home-og.jpg",
+    "url": "https://www.callofduty.com/mobile"
+  },
+  {
+    "nom": "Genshin Impact",
+    "size": "3.5 GB",
+    "image": "https://upload-os-bbs.hoyolab.com/upload/2020/09/15/11126338/36e7f66e43c7331f8f7f9db6466b7406_5304091567397911098.jpg",
+    "url": "https://genshin.hoyoverse.com/"
+  },
+  {
+    "nom": "Free Fire",
+    "size": "710 MB",
+    "image": "https://ff.garena.com/images/og/og-image.jpg",
+    "url": "https://ff.garena.com/"
+  }
+]
