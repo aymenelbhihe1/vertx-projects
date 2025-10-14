@@ -38,9 +38,9 @@
       "route": "GenericChannels"
     },
     { 
-      "id": "SscChannel",
-      "name": "SSC Sport",
-      "nomChaine": "ssc",
+      "id": "Mbc",
+      "name": "Mbc",
+      "nomChaine": "mbc",
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ssc_sports.png",
       "route": "GenericChannels"
     },
